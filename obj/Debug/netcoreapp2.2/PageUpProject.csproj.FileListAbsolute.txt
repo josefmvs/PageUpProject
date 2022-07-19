@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\bin\Debug\netcoreapp2.2\PageUpProject.deps.json
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\bin\Debug\netcoreapp2.2\PageUpProject.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\bin\Debug\netcoreapp2.2\PageUpProject.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\bin\Debug\netcoreapp2.2\PageUpProject.dll
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\bin\Debug\netcoreapp2.2\PageUpProject.pdb
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.dll
+C:\Users\Lenovo\source\repos\PageUpProject\PageUpProject\obj\Debug\netcoreapp2.2\PageUpProject.pdb
